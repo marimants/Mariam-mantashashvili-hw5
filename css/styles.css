@@ -9,6 +9,7 @@
 	top: 0;
 	right: 0;
 	z-index: 99;
+	background-color: #C4D5DE;
 }
 .logo {
 	display: inline-block;
@@ -81,7 +82,7 @@
     /*display: inline-block;*/
 }
 .divider-text {
-	margin: 66px 40px 40px 40px;
+	margin: 60px 40px 40px 40px;
 }
 .time {
 	display: inline-block;
@@ -114,4 +115,45 @@
 	background-color: #FFFFFF;
 	display: inline-block;
 	margin-left: 40px;
+}
+/*section 2*/
+.left-block-divider {
+	width: 760px;
+	height: 956px;
+	margin: 58px 40px 0 140px;
+	display: inline-block;
+}
+.absolute-block {
+	position: absolute;
+	width: 760px;
+	
+}
+.relative-block {
+	position: relative;
+	padding: 194px 172px 220px 308px;
+	font-size: 16px;
+	color: #FFFFFF;
+	font-family: 'Helvetica';
+}
+.div {
+	margin-top: 40px;
+}
+.picture {
+	margin-top: 40px;
+}
+/*section 2-right block*/
+.right-block-divider {
+	width: 360px;
+	height: 896px;
+	display: inline-block;
+	margin-left: 40px;
+}
+.first-pic {
+	margin-bottom: 102px;
+}
+.second-pic {
+	margin-bottom: 102px;
+}
+.third-pic {
+	margin-bottom: 60px;
 }
