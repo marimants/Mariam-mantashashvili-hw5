@@ -115,10 +115,14 @@
 	margin-left: 40px;
 }
 /*section 2*/
+.box {
+	width: 1200px;
+    margin: 58px auto; 
+ }
 .left-block-divider {
 	width: 760px;
 	height: 956px;
-	margin: 58px 40px 0 140px;
+	/*margin: 58px 140px;*/
 	display: inline-block;
 }
 .absolute-block {
